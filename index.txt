@@ -1,0 +1,7 @@
+--- Git Practice File ---
+
+1. Ye meri pehli file hai.
+2. Main VS Code mein Git seekh raha hoon.
+3. Ab main ise 'git add' aur 'git commit' karke check karunga.
+
+Created on: 29 January, 2026
